@@ -1,0 +1,22 @@
+.sidebar {
+    grid-area: s;
+    background-color: lightskyblue;
+}
+
+.nav {
+    padding: 5px 0;
+}
+
+.link {
+    display: block;
+    padding: 10px 15px;
+    color: #333333;
+    text-decoration: none;
+}
+
+.link_current {
+    display: block;
+    padding: 10px 15px;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.2);
+}

@@ -1,0 +1,7 @@
+.post_creater {
+    margin-bottom: 20px;
+}
+.post_creater textarea {
+    display: block;
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+.formControl input,
+.formControl textarea {
+    font-size: 16px;
+}
+
+.formControlErr input,
+.formControlErr textarea {
+    border: 1px solid red;
+}
+
+.errMsg {
+    font-size: 12px;
+    margin: 0 0 10px;
+    color: red;
+}

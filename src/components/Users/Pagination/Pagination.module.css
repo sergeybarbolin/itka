@@ -1,0 +1,18 @@
+.pagination_item {
+    display: inline-block;
+    margin: 0 5px;
+    border: 1px solid #999999;
+    background-color: #fff;
+    cursor: pointer;
+    padding: 2px 8px;
+}
+
+.pagination_item_current {
+    font-weight: bold;
+    border: 1px solid #333333;
+}
+
+.pagination_list {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #999999;
+}

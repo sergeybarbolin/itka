@@ -1,0 +1,15 @@
+.header {
+    grid-area: h;
+    background-color: lightsalmon;
+}
+
+.user_login {
+    float: right;
+    padding-right: 30px;
+    padding-top: 10px;
+    color: black;
+}
+
+.user_login a {
+    color: black;
+}
